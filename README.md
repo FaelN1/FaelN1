@@ -5,7 +5,7 @@
 
 ![FaelN1 GitHub stats](https://github-readme-stats.vercel.app/api?username=faeln1&hide=contribs,prs&theme=tokyonight)
 
-## Tecnologias que uso no meu cotidiano<hr/>
+## Tecnologias que uso no meu cotidiano
 
 <div style='display: inline_block'><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,7 @@
 <br/>
 
 ### Projetos em andamento
-<hr/>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=bluetooth_auto_printer)](https://github.com/FaelN1/bluetooth_auto_printer)<br/><br/>
 
