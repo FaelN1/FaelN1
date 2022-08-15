@@ -22,7 +22,9 @@
 ### Projetos em andamento
 <hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=bluetooth_auto_printer)](https://github.com/FaelN1/bluetooth_auto_printer)<br/><br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=bluetooth_auto_printer)](https://github.com/FaelN1/bluetooth_auto_printer)<br/><br/>
+
+### Linguagens mais usadas<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeln1&layout=compact)](https://github.com/FaelN1)
 
