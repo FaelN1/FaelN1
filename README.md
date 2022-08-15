@@ -5,6 +5,8 @@
 
 ![FaelN1 GitHub stats](https://github-readme-stats.vercel.app/api?username=faeln1&hide=contribs,prs&theme=tokyonight)
 
+## Tecnologias que uso no meu cotidiano<hr/>
+
 <div style='display: inline_block'><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -13,10 +15,18 @@
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-### `Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.`
+### `"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."`
 
 <br/>
 
-### Projetos em andamento:
+### Projetos em andamento
+<hr/>
 
-- [Bluetooth auto print - Flutter](https://github.com/FaelN1/bluetooth_auto_printer)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=bluetooth_auto_printer)](https://github.com/FaelN1/bluetooth_auto_printer)<br/><br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeln1&layout=compact)](https://github.com/FaelN1)
+
+
+
+
+
