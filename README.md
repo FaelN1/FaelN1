@@ -11,8 +11,12 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div><br/>
 
+### `Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.`
 
+<br/>
 
+### Projetos em andamento:
 
+- [Bluetooth auto print - Flutter](https://github.com/FaelN1/bluetooth_auto_printer)<br/>
