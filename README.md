@@ -17,14 +17,13 @@
 
 ### `"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."`
 
-<br/>
 
 ### Projetos em andamento
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=bluetooth_auto_printer)](https://github.com/FaelN1/bluetooth_auto_printer)<br/><br/>
 
-### Linguagens mais usadas<br/><br/>
+
+### Linguagens mais usadas<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeln1&layout=compact)](https://github.com/FaelN1)
 
