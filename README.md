@@ -22,11 +22,6 @@ Breve descrição do projeto 1.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=whatsapp-api)](https://github.com/FaelN1/whatsapp-api)
 
-### Projeto 2: Nome do Projeto
-Breve descrição do projeto 2.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=nome-do-projeto)](https://github.com/FaelN1/nome-do-projeto)
-
 ## Estatísticas do GitHub
 
 ![FaelN1 GitHub stats](https://github-readme-stats.vercel.app/api?username=faeln1&hide=contribs,prs&theme=tokyonight)
