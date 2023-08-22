@@ -16,7 +16,7 @@ Eu sou um desenvolvedor apaixonado por criar soluções para problemas e aprende
 
 ## Projetos em andamento
 
-### Projeto 1: WhatsApp API
+### Projeto 1: Snake Io
 Breve descrição do projeto 1.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=whatsapp-api)](https://github.com/FaelN1/snake-io)
