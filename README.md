@@ -1,7 +1,6 @@
 # Olá! Eu sou o Rafael Nicolas 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nicolas-7119b91b7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faeln1/)
 
 ## Sobre mim
 Eu sou um desenvolvedor apaixonado por criar soluções para problemas e aprender novas tecnologias. Minhas principais áreas de interesse incluem desenvolvimento web, mobile e ciência de dados.
@@ -20,7 +19,7 @@ Eu sou um desenvolvedor apaixonado por criar soluções para problemas e aprende
 ### Projeto 1: WhatsApp API
 Breve descrição do projeto 1.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=whatsapp-api)](https://github.com/FaelN1/whatsapp-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=whatsapp-api)](https://github.com/FaelN1/snake-io)
 
 ## Estatísticas do GitHub
 
