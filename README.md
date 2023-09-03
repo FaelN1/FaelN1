@@ -1,28 +1,21 @@
-# Olá! Eu sou o Rafael Nicolas 😊
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-nicolas-7119b91b7/)
-
-## Sobre mim
-Eu sou um desenvolvedor apaixonado por criar soluções para problemas e aprender novas tecnologias. Minhas principais áreas de interesse incluem desenvolvimento web, mobile e ciência de dados.
-
-## Tecnologias que uso no meu cotidiano
-<div style='display: inline_block'><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=996DFF&width=500&lines=%3Cheader%3EHello%2C+World!%3C%2Fheader%3E;I'm+Rafael+Nicolas;+%7BI'm+18+years+old%7D;I'm+a+front-end+programmer+in+training;Welcome+for+my+profile" alt="Typing SVG" /></a>
 </div>
 
-## Projetos em andamento
+<h1>About me</h1>
 
-### Projeto 1: Snake Io
-Breve descrição do projeto 1.
+- 👋 Hi, I’m Rafael Nicolas
+- 👀 I’m interested in develop myself as a web and mobile programmer
+- 🌱 I’m currently learning Reactjs, Node.js and 2st semester software engineering
+- 💞️ I’m looking to collaborate on web projects
+- 📫 I’m available for conversations on twitter and instagram: https://twitter.com/pedro__png, https://instagram.com/p3dr0_ath 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FaelN1&repo=whatsapp-api)](https://github.com/FaelN1/snake-io)
+<h1>👨‍💻 Github analysis</h1>
 
-## Estatísticas do GitHub
+<div align="center" space='2rem'>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquelimasilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="pedrohenriquelimasilva's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquelimasilva&layout=compact&langs_count=7&theme=dark" alt="pedrohenriquelimasilva's most languages"/>
+</div>
 
-![FaelN1 GitHub stats](https://github-readme-stats.vercel.app/api?username=faeln1&hide=contribs,prs&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faeln1&layout=compact)](https://github.com/FaelN1)
+<br><br>
+'+
