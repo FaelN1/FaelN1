@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Construindo+produtos+que+resolvem+problemas;APIs%2C+filas+e+mensageria+em+escala;Do+primeiro+commit+%C3%A0+produ%C3%A7%C3%A3o" alt="Construindo produtos, APIs e sistemas de mensageria" />
 
-<p><a href="https://www.linkedin.com/in/ACoAADKEF70BjdH4C4y3s_cdeNqymdAzdxURzWM"><img src="https://img.shields.io/badge/LinkedIn-Rafael%20Nicolas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://noouter.com"><img src="https://img.shields.io/badge/Conhe%C3%A7a-Noouter-8B5CF6?style=for-the-badge" alt="Noouter" /></a></p>
+<p><a href="https://www.linkedin.com/in/ACoAADKEF70BjdH4C4y3s_cdeNqymdAzdxURzWM"><img src="https://img.shields.io/badge/LinkedIn-Rafael%20Nicolas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://noouter.com"><img src="https://img.shields.io/badge/Conhe%C3%A7a-Noouter-8B5CF6?style=for-the-badge" alt="Noouter" /></a> <a href="https://www.rnbsolutions.com.br/"><img src="https://img.shields.io/badge/Software%20House-RNB%20Solutions-2563EB?style=for-the-badge" alt="RNB Solutions" /></a></p>
 
 </div>
 
